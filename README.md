@@ -13,13 +13,13 @@ AbilBase V1
 > pkg install wget -y
 > pkg install libwebp -y
 > termux-setup-storage
-> git clone https://github.com/AbilBotz/BaseV1
-> cd BaseV1
+> git clone https://github.com/wandriwa/wandri2
+> cd wandri2
 > node main.js
 ```
 ## For Windows
 ```bash
-git clone https://github.com/AbilBotz/BaseV1.git
+git clone https://github.com/wandriwa/wandri2.git
 cd BaseV1
 npm start
 ```
